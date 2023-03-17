@@ -1,4 +1,4 @@
-# test_synapsisid
+# test_app
 
 A new Flutter project.
 
